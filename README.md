@@ -76,9 +76,6 @@ Also, there are many ways you can integrate a linter in your workflow:
 
 **Note:** The npm package manager is going to create a node_modules directory to install all of your dependencies. You shouldn't commit that directory. To avoid that, you can create a .gitignore file and add node_modules to it:
 
-# .gitignore
-
-node_modules/
 
 ## Web Hint
 

@@ -51,13 +51,6 @@ In order to run this project you need:
 
 ### Setup
 
-To clone this project, run the following commands::<br>
-cd your-prefered-folder-name :<br>
-
-git clone https://github.com/migo1/Hello-Microverse.git<br>
-
-### Setup
-
 1.  Clone the Repo with:
 ```
 git clone https://github.com/migo1/Hello-Microverse.git

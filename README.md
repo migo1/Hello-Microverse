@@ -23,14 +23,9 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-  <summary>Javascript runtime environment</summary>
   <ul>
-    <li><a href="https://nodejs.org/en/">Node JS</a></li>
-  </ul>
-
-  <summary>Version control</summary>
-  <ul>
-    <li><a href="https://git-scm.com/">Git </a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details
 
@@ -56,15 +51,17 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired directory:<br>
-Advantages of Linters:<br>
+To clone this project, run the following commands::<br>
+cd your-prefered-folder-name :<br>
 
-1: improves readability-it will be easy to read and make adjustment if required easily.<br>
-2:removes silly errors before execution and code review.<br>
-3:Makes code look like written by a single person.<br>
-4:Spreads awareness and ownership over code quality<br>
-5:Having more secure and performant code.<br>
+git clone https://github.com/migo1/Hello-Microverse.git<br>
 
+### Usage
+
+To run this app in your browser, run in your terminal:
+`cd Hello-Microverse`
+
+Then open the live server or open the `index.html` file with your browser
 ## Install Linters
 
 You can find linters for most of the programming languages, e.g. Rubocop for Ruby or ESLint for JavaScript.
@@ -142,10 +139,10 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
-      This project will not have any additional features.
+      Add more styling.
+      Add Animations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

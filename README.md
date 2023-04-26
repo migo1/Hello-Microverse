@@ -56,25 +56,24 @@ cd your-prefered-folder-name :<br>
 
 git clone https://github.com/migo1/Hello-Microverse.git<br>
 
-### Usage
+### Setup
 
-To run this app in your browser, run in your terminal:
-`cd Hello-Microverse`
+1.  Clone the Repo with:
+```
+git clone https://github.com/migo1/Hello-Microverse.git
+```
+2. switch to the cloned directory
+```
+cd Hello-World
+```
 
+### Installation
+
+1. Install the project with it's depenedcies
+```
+npm install
+```
 Then open the live server or open the `index.html` file with your browser
-## Install Linters
-
-You can find linters for most of the programming languages, e.g. Rubocop for Ruby or ESLint for JavaScript.
-
-Also, there are many ways you can integrate a linter in your workflow:
-
--text editor plugin<br>
--GitHub Actions<br>
--GitHub apps<br>
-
-## Set up Linters
-
-**Note:** The npm package manager is going to create a node_modules directory to install all of your dependencies. You shouldn't commit that directory. To avoid that, you can create a .gitignore file and add node_modules to it:
 
 
 ## Web Hint
